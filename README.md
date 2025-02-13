@@ -4,3 +4,4 @@ Its all about machine learning and machine learning related topics
 ## 2.Mean,Median,Mode
 ## 3.standard Deviation
 ## 4.percentile
+## 5.scatter plot
