@@ -7,6 +7,7 @@ Its all about machine learning and machine learning related topics
 ## 5.scatter plot
 ## 6.linear regression
 ## 7.Polynomial Regression
+
 ## 8.multiple linear regression
 
 
